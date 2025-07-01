@@ -1,6 +1,1 @@
-Kelompok 5
-, Fernanda Harjoki Putra
-, Aldo Bagus Jiwantoro
-, Muhamad Aditya Saputra
-, Alief Adityo Nasoka
-, Ahmad Yadi Harianto
+file projek dan database serta instalasinya
