@@ -1,5 +1,5 @@
 Kelompok 5
-Fernanda Harjoki Putra
+\nFernanda Harjoki Putra
 Aldo Bagus Jiwantoro
 Muhamad Aditya Saputra
 Alief Adityo Nasoka
